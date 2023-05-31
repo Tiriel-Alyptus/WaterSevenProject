@@ -2,7 +2,7 @@
 
       npx nuxi@latest init WaterSeven ( Commande déjà effectué, ne pas refaire)
       
-     # 
+  # 
           
       npm i
       

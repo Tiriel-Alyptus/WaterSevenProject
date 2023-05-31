@@ -21,17 +21,17 @@
       
   
 # Module à installer : 
-
+#
       npm install --save-dev @nuxtjs/tailwindcss
       
       
-
+#
       npm install -D tailwindcss@latest postcss@latest autoprefixer@latest
       
       
-
+#
       npm install @heroicons/vue
       
       
-
+#
       npm install @headlessui/vue

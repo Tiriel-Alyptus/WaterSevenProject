@@ -2,20 +2,20 @@
 
       npx nuxi@latest init WaterSeven ( Commande déjà effectué, ne pas refaire)
       
-      
+     # 
           
       npm i
       
       
-  
+  #
       npm up
       
       
-  
+  #
       npm install @nuxthq/ui
       
       
-  
+  #
       npm run dev
       
       
